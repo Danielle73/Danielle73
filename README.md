@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danielle73
 - 👀 I’m interested in coding and software development.
-- 🌱 I’m currently learning HTML & CSS and will move onto learning Java and Python. 
+- 🌱 I’m currently learning Python and have experience in HTML & CSS
 - 💞️ I’m looking to collaborate on anything that could help enhance my experience, and to grow as a software developer. 
 - 📫 How to reach me: send me a message on github! :) 
 
