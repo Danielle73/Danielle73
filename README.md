@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Danielle73
 - 👀 I found a passion for all things tech and coding related - and Im not going back!
-- 🌱 I’m currently learning and improving my Python skills and have experience in HTML & CSS
+- 🌱 I’m currently learning and improving my Python skills and have experience in HTML & CSS.
 - 💞️ I’m looking to collaborate on anything that could help enhance my experience, and to grow as I navigate this new field. 
 - 📫 How to reach me: send me a message on github! :) 
 
